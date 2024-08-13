@@ -9,3 +9,5 @@ To download the movie, one can click the item, then click "View raw".
 # Simulation
 
 Folder "ABAQUSFiles" contains input files to run the simulation using ABAQUS.
+
+![Simulation](https://github.com/Jeff97/Morphing-pneumatic-tube/blob/main/Simulation.jpg)
